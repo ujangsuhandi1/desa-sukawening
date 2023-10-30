@@ -15,62 +15,47 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-3xl font-semibold">Visi & Misi Desa Contoh TUgas Akhir</p>
       <p class="text-lg font-semibold">Visi</p>
       <p>
-        “Terwujudnya Desa Setu Yang Sejahtera dan Mandiri, ditopang Kinerja
-        Aparatur yang Profesional dalam Kerangka Budaya Bangsa didasari Keimanan
-        dan Ketaqwaan”
+        “TMewujudkan Kehidupan Masyarakat Desa Sukawening yang Tangguh
+(Tanggap, Giat dan Utuh ) “
+
       </p>
       <p class="text-lg font-semibold">Misi</p>
       <ul>
         <li>
-          1. Mengembangkan system Pemerintahan Desa yang bersih dan profesional
-          serta berorientasi pada pelayanan publik dengan prinsif kerja ikhlas,
-          lakukan sekarang dan siap turun ke lapangan;
+          1. Melakukan reformasi sistem kinerja aparatur Pemerintah Desa 
+          guna meningkatkan kualitas pelayanan kepada masyarakat; 
         </li>
         <li>
-          2. Meningkatkan dan memantapkan system perencanaan pembangunan desa
-          melalui pengoptimalan mekanisme musyawarah pembangunan desa dengan
-          melibatkan seluruh steackholder yang ada;
+          2. Menyelenggarakan pemerintahan yang bersih, terbebas dari korupsi 
+          serta bentuk-bentuk penyelewengan lainnya;
         </li>
         <li>
-          3. Membuat skala prioritas untuk kegiatan-kegiatan pembangunan yang
-          akan dilaksanakan baik pembangunan fisik atau non fisik, seperti
-          infrastruktur, perekonomian, keagamaan, Pendidikan dan kesehatan;
+          3. Meningkatkan perekonomian masyarakat melalui pendampingan 
+          berupa penyuluhan khusus kepada UKM, wiraswasta dan para petani;
         </li>
         <li>
-          4. Meningkatkan kemampuan dan peran serta aktif masyarakat dalam
-          mengelola pembangunan berkelanjutan secara efisisen dan efektif dengan
-          memanfaatkan potensi sumber daya yang ada, baik sumber daya alam
-          maupun sumberdaya manusia;
+          4. Meningkatkan mutu kesejahteraan masyarakat untuk mencapai taraf 
+          kehidupan yang lebih baik dan layak sehingga menjadi Desa yang maju 
+          dan mandiri; dan
         </li>
         <li>
-          5. Meningkatkan kemampuan dan pemberdayaan Lembaga-lembaga
-          kemasyarakatan yang ada didesa atau lebih mendinamisasi dan mendukung
-          seluruh proses pembangunan;
+          5. Membangkitkan kembali sarana olah  raga sepak bola, 
+          bulu tangkis, bola volly dan lainnya;
         </li>
         <li>
-          6. Mendorong majunya Pendidikan formal maupun nonformal seperti
-          pesantren, LPK, diklat serta penyuluhan pertanian yang mudah diakses
-          dan dinikmati seluruh warga masyarakat, guna menghasilkan insan
-          intelektual, berakhlak mulia, inovatif dan entrepreneur;
+          6.	Menumbuhkembangkan perekonomian masyarakat melalui pemberdayaan
+          Usaha Mikro Kecil dan Menengah (UMKM), dan mengembangkan Ketahanan 
+          pangan menjadi sentra ekonomi masyarakat;
         </li>
         <li>
-          7. Menyalurkan segala bentuk bantuan dari Pemerintah Kabupaten,
-          Provinsi dan Pusat sesuai dengan peruntukannya dan mencegah terjadinya
-          penyimpangan dan kebocoran;
+          7.	Penggalian potensi untuk program Desa Wisata, guna peningkatan 
+          Perekonomian masyarakat Desa;
         </li>
         <li>
-          8. Menjalin sinergitas dengan instansi atau Lembaga terkait dan pihak
-          swasta guna optimalisasi suatu tujuan lebih baik dan lebih maksimal;
+          8.	Meningktakan pelayanan kesehatan masyarakat melalui pengembangan
+          dan penambahan sarana dan prasarana kesehatan
         </li>
-        <li>
-          9. Responsive dan aspiratif atas segala bentuk kebutuhan atau
-          keinginan dan permasalahan yang terjadi ditengah masyarakat yang
-          majemuk dan dinamis;
-        </li>
-        <li>
-          10. Membina dan memantapkankehidupan gotong royongsebagai basis dan
-          modal dasar pembangunan desa, yang pada hakikatnyajuga merupakan
-          karakter dasar dari masyarakat desa dan juga bangsa Indonesia.
+        
         </li>
       </ul>
     </div>
