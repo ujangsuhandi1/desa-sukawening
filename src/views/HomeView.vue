@@ -55,8 +55,6 @@ import Sidebar from "../components/Sidebar.vue";
           8.	Meningktakan pelayanan kesehatan masyarakat melalui pengembangan
           dan penambahan sarana dan prasarana kesehatan
         </li>
-        
-        </li>
       </ul>
     </div>
   </main>
