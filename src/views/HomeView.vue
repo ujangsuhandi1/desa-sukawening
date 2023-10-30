@@ -34,18 +34,14 @@ import Sidebar from "../components/Sidebar.vue";
              berupa penyuluhan khusus kepada UKM, wiraswasta dan para petani;
         </li>
         <li>
-          4. Meningkatkan mutu kesejahteraan masyarakat untuk mencapai taraf 
-             kehidupan yang lebih baik dan layak sehingga menjadi Desa yang maju 
-             dan mandiri; dan
+          4. Meningkatkan mutu kesejahteraan masyarakat untuk mencapai taraf kehidupan yang lebih baik dan layak sehingga menjadi Desa yang maju dan mandiri; dan
         </li>
         <li>
           5. Membangkitkan kembali sarana olah  raga sepak bola, 
              bulu tangkis, bola volly dan lainnya;
         </li>
         <li>
-          6.	Menumbuhkembangkan perekonomian masyarakat melalui pemberdayaan
-              Usaha Mikro Kecil dan Menengah (UMKM), dan mengembangkan Ketahanan 
-              pangan menjadi sentra ekonomi masyarakat;
+          6.	Menumbuhkembangkan perekonomian masyarakat melalui pemberdayaanUsaha Mikro Kecil dan Menengah (UMKM), dan mengembangkan Ketahanan pangan menjadi sentra ekonomi masyarakat;
         </li>
         <li>
           7.	Penggalian potensi untuk program Desa Wisata, guna peningkatan 
