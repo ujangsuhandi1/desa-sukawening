@@ -15,7 +15,7 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-3xl font-semibold">Visi & Misi Desa Contoh TUgas Akhir</p>
       <p class="text-lg font-semibold">Visi</p>
       <p>
-        “TMewujudkan Kehidupan Masyarakat Desa Sukawening yang Tangguh
+        “Mewujudkan Kehidupan Masyarakat Desa Sukawening yang Tangguh
 (Tanggap, Giat dan Utuh ) “
 
       </p>
