@@ -23,37 +23,37 @@ import Sidebar from "../components/Sidebar.vue";
       <ul>
         <li>
           1. Melakukan reformasi sistem kinerja aparatur Pemerintah Desa 
-          guna meningkatkan kualitas pelayanan kepada masyarakat; 
+             guna meningkatkan kualitas pelayanan kepada masyarakat; 
         </li>
         <li>
           2. Menyelenggarakan pemerintahan yang bersih, terbebas dari korupsi 
-          serta bentuk-bentuk penyelewengan lainnya;
+             serta bentuk-bentuk penyelewengan lainnya;
         </li>
         <li>
           3. Meningkatkan perekonomian masyarakat melalui pendampingan 
-          berupa penyuluhan khusus kepada UKM, wiraswasta dan para petani;
+             berupa penyuluhan khusus kepada UKM, wiraswasta dan para petani;
         </li>
         <li>
           4. Meningkatkan mutu kesejahteraan masyarakat untuk mencapai taraf 
-          kehidupan yang lebih baik dan layak sehingga menjadi Desa yang maju 
-          dan mandiri; dan
+             kehidupan yang lebih baik dan layak sehingga menjadi Desa yang maju 
+             dan mandiri; dan
         </li>
         <li>
           5. Membangkitkan kembali sarana olah  raga sepak bola, 
-          bulu tangkis, bola volly dan lainnya;
+             bulu tangkis, bola volly dan lainnya;
         </li>
         <li>
           6.	Menumbuhkembangkan perekonomian masyarakat melalui pemberdayaan
-          Usaha Mikro Kecil dan Menengah (UMKM), dan mengembangkan Ketahanan 
-          pangan menjadi sentra ekonomi masyarakat;
+              Usaha Mikro Kecil dan Menengah (UMKM), dan mengembangkan Ketahanan 
+              pangan menjadi sentra ekonomi masyarakat;
         </li>
         <li>
           7.	Penggalian potensi untuk program Desa Wisata, guna peningkatan 
-          Perekonomian masyarakat Desa;
+              Perekonomian masyarakat Desa;
         </li>
         <li>
           8.	Meningktakan pelayanan kesehatan masyarakat melalui pengembangan
-          dan penambahan sarana dan prasarana kesehatan
+              dan penambahan sarana dan prasarana kesehatan
         </li>
       </ul>
     </div>
