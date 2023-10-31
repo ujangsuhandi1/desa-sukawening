@@ -62,6 +62,6 @@ Menurut cerita dari pendahulu kami, dan berdasarkan data yang ada sebelumnya, De
 
 <style>
 body {
-  background: #FFFBF5;
+  background: #C3ACD0;
 }
 </style>
