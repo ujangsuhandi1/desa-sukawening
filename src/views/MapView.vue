@@ -152,7 +152,7 @@ export default {
   },
   async created() {
     this.loading = true;
-    const response = await fetch("/batas_desa_sukawening.json");
+    const response = await fetch("/batas_desa_sukawening_2.json");
     const data = await response.json();
     this.geojson = data;
     this.loading = false;
